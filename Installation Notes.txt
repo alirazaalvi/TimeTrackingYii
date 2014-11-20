@@ -1,0 +1,14 @@
+1. The Mysql database script is included in the zip source folder.
+2. The default database name which i used is webapp and the credentials are following
+
+Host: localhost
+Database Name : webapp
+user : root
+password : 
+
+
+Default Users:
+ali/ali
+aliraza/aliraza
+
+You can add new users in the database inside "user table"

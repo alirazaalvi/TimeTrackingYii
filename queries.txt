@@ -1,0 +1,1 @@
+SELECT * FROM table_name WHERE MONTH(date_column) = 4;
